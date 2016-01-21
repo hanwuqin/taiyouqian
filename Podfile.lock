@@ -1,13 +1,26 @@
 PODS:
   - Alamofire (3.1.4)
+  - AlamofireImage (2.2.0):
+    - Alamofire (~> 3.1)
+  - CryptoSwift (0.2.1)
+  - MBProgressHUD (0.9.1)
   - SnapKit (0.15.0)
+  - TZStackView (1.1.2)
 
 DEPENDENCIES:
   - Alamofire (~> 3.0)
+  - AlamofireImage (~> 2.0)
+  - CryptoSwift
+  - MBProgressHUD
   - SnapKit (~> 0.15.0)
+  - TZStackView (= 1.1.2)
 
 SPEC CHECKSUMS:
   Alamofire: fbc829692f351fa1d8a31dd75fd7f7f56fea31fb
+  AlamofireImage: bedb8a4bdfb98eda81ba12952fba6e9e90420922
+  CryptoSwift: f137af19c369362debf82957d0366c8d79329341
+  MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
   SnapKit: 4962eed2ee18e48cbd2b2292fffc57efe7235f87
+  TZStackView: 19aeaa414fb653f4be9b80a73f4f0c66e33bf033
 
 COCOAPODS: 0.39.0
